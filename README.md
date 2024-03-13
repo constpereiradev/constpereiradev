@@ -1,4 +1,4 @@
-<h1>Olá! Bem vindo ao meu perfil no GitHub.</h1>
+<h1>Meu nome é Amanda Pereira</h1>
 
 ```php
 <?php
