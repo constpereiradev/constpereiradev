@@ -1,4 +1,4 @@
-<h1>Meu nome é Amanda Pereira</h1>
+<h1>Amanda Pereira</h1>
 
 ```php
 <?php
