@@ -12,7 +12,7 @@ class About extends Me
         return [
             'workplace' => [
                 'company' => 'Bomix',
-                'position' => 'Trainee'         
+                'position' => 'Jovem Aprendiz'         
             ]
         ];
     }
@@ -33,6 +33,7 @@ class About extends Me
         return [
             'university' => 'Universidade Federal de Mato Grosso do Sul',
             'semester' => '1°'
+            'modality' => 'EaD'
         ]
     }
 
