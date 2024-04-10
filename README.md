@@ -13,7 +13,7 @@ class About extends Me
             'workplace' => [
                 'company' => 'Bomix',
                 'lastPosition' => 'Jovem Aprendiz',
-                'currentPosition' -> 'Auxiliar de Desenvolvimento Junior'
+                'currentPosition' -> 'Auxiliar de Desenvolvimento Junior',
                 'months' => '7'         
             ]
         ];
