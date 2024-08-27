@@ -14,7 +14,7 @@ class About extends Me
                 'company' => 'Bomix',
                 'lastPosition' => 'Jovem Aprendiz',
                 'currentPosition' -> 'Auxiliar de Desenvolvimento Junior',
-                'months' => '10'         
+                'months' => '11'         
             ]
         ];
     }
@@ -34,7 +34,7 @@ class About extends Me
     {
         return [
             'university' => 'Universidade Federal de Mato Grosso do Sul',
-            'semester' => '2°'
+            'semester' => '2°',
             'modality' => 'EaD'
         ]
     }
