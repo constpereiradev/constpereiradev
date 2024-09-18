@@ -14,11 +14,11 @@ class About extends Me
                 'company' => 'Bomix',
                 'lastPosition' => [
                     'title' => 'Jovem Aprendiz',
-                    'months' => '7'
+                    'months' => 7
                  ],
                 'currentPosition' -> [
                     'title' => 'Auxiliar de Desenvolvimento Junior'
-                    'months' => '6'
+                    'months' => 6
                 ] 
         ];
     }
