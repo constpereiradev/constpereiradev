@@ -30,7 +30,8 @@ class About extends Me
             Javascript::class,
             Laravel::class,
             Vuejs::class,
-            Bootstrap::class
+            Bootstrap::class,
+            ADVPL::class,
         ];
     }
 
