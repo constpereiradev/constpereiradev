@@ -17,7 +17,7 @@ class About extends Me
                     'months' => 7
                  ],
                 'currentPosition' -> [
-                    'title' => 'Auxiliar de Desenvolvimento Junior'
+                    'title' => 'Auxiliar de Desenvolvimento Junior',
                     'months' => 6
                 ] 
         ];
