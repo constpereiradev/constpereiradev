@@ -35,7 +35,7 @@ class About extends Me
             Javascript::class,
             Laravel::class,
             Symfony::class,
-            SQLSRV:class,
+            Sqlsrv:class,
             MySQL::class,
             Vuejs::class,
             Bootstrap::class,
