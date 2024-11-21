@@ -11,15 +11,20 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Bomix',
-                'lastPosition' => [
-                    'title' => 'Jovem Aprendiz',
+                'firstPosition' => [
+                    'company' => 'Bomix',
+                    'title' => 'Jovem Aprendiz de Desenvolvimento',
                     'months' => 7
                  ],
-                'currentPosition' -> [
+                'secondPosition' -> [
+                    'company' => 'Bomix',
                     'title' => 'Auxiliar de Desenvolvimento Junior',
-                    'months' => 6
-                ] 
+                    'months' => 7
+                ],
+                'currentPosition' => [
+                    'company' => 'Blue',
+                    'title' => 'Desenvolvedor Backend Junior',
+                ]
         ];
     }
 
@@ -29,6 +34,9 @@ class About extends Me
             Php::class,
             Javascript::class,
             Laravel::class,
+            Symfony::class,
+            SQLSRV:class,
+            MySQL::class,
             Vuejs::class,
             Bootstrap::class,
             Advpl::class,
