@@ -48,7 +48,7 @@ class About extends Me
     {
         return [
             'university' => 'Universidade Federal de Mato Grosso do Sul',
-            'semester' => '2°',
+            'semester' => '3°',
             'modality' => 'EaD'
         ]
     }
