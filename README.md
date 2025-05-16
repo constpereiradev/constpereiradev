@@ -24,9 +24,14 @@ class About extends Me
                 'currentPosition' => [
                     'company' => 'Blue',
                     'title' => 'Desenvolvedor Backend Junior',
-                    'months' => 5
+                    'months' => 7
                 ]
         ];
+    }
+
+    public function getExperienceTime(): string
+    {
+        return '21 months of experience';
     }
 
     public function getDailyKnowledge(): array
