@@ -23,8 +23,8 @@ class About extends Me
                 ],
                 'currentPosition' => [
                     'company' => 'Blue',
-                    'title' => 'Desenvolvedor Backend Junior',
-                    'months' => 7
+                    'title' => 'Desenvolvedor Backend Junior N3',
+                    'months' => 9
                 ]
         ];
     }
