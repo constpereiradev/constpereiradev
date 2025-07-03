@@ -31,7 +31,7 @@ class About extends Me
 
     public function getExperienceTime(): string
     {
-        return '21 months of experience';
+        return '22 months of experience';
     }
 
     public function getDailyKnowledge(): array
