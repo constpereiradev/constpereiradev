@@ -2,12 +2,6 @@
 
 <p align="center">🚀 Backend Developer | 💻 Code Artist | 🧠 Always Learning</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Enthusiast-6e40c9?style=flat-square&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_to_Learning-ff69b4?style=flat-square&logo=readme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nerd_Level-Over9000-1976D2?style=flat-square&logo=dragon-ball&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-23_months-00c853?style=flat-square&logo=matrix&logoColor=white" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=flat-square&logo=php&logoColor=white" />
