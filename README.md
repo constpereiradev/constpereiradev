@@ -1,11 +1,30 @@
-<h1>Amanda Pereira</h1>
+<h1 align="center">Amanda Pereira</h1>
+
+<p align="center">🚀 Backend Developer | 💻 Code Artist | 🧠 Always Learning</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Enthusiast-6e40c9?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to_Learning-ff69b4?style=flat-square&logo=readme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nerd_Level-Over9000-1976D2?style=flat-square&logo=dragon-ball&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-23_months-00c853?style=flat-square&logo=matrix&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-Lover-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-Fan-000000?style=flat-square&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-Explorer-42b883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADVPL-Survivor-007ACC?style=flat-square" />
+</p
+
+
 
 ```php
 <?php
 
 namespace AmandaPereira;
 
-class About extends Me
+class About extends Developer
 {
     public function getCurrentWorkplace(): array
     {
@@ -16,7 +35,7 @@ class About extends Me
                     'title' => 'Jovem Aprendiz de Desenvolvimento',
                     'months' => 7
                  ],
-                'secondPosition' -> [
+                'secondPosition' => [
                     'company' => 'Bomix',
                     'title' => 'Auxiliar de Desenvolvimento Junior',
                     'months' => 7
@@ -31,7 +50,7 @@ class About extends Me
 
     public function getExperienceTime(): string
     {
-        return '22 months of experience';
+        return '23 months of experience';
     }
 
     public function getDailyKnowledge(): array
@@ -49,13 +68,13 @@ class About extends Me
         ];
     }
 
-    public function getCurrentCollege(): string
+    public function getCurrentCollege(): array
     {
         return [
             'university' => 'Universidade Federal de Mato Grosso do Sul',
-            'semester' => '3°',
-            'modality' => 'EaD'
-        ]
+            'actualSemester' => '4°',
+            'totalSemesters' => 6
+        ];
     }
 
     public function getStatus(): string
@@ -64,7 +83,21 @@ class About extends Me
     }
 }
 ```
+---
 
+### 🔗 Connect with Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/amanda-pereira-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amanda%20Pereira-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:amandapereiradevcontact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amandapereira%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://pereiradev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-AmandaPereira-181717?style=flat-square" />
+  </a>
+
+</p>
 
 
