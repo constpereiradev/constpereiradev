@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Symfony-Fan-000000?style=flat-square&logo=symfony&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-Explorer-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/ADVPL-Survivor-007ACC?style=flat-square" />
-</p
+</p>
 
 
 
@@ -97,7 +97,6 @@ class About extends Developer
   <a href="https://pereiradev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-AmandaPereira-181717?style=flat-square" />
   </a>
-
 </p>
 
 
