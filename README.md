@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-Lover-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Symfony-Fan-000000?style=flat-square&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyperf-Fan-000000?style=flat-square&logo=hyperf&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-Explorer-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/ADVPL-Survivor-007ACC?style=flat-square" />
 </p>
@@ -37,14 +38,14 @@ class About extends Developer
                 'currentPosition' => [
                     'company' => 'Blue',
                     'title' => 'Desenvolvedor Backend Junior N3',
-                    'months' => 9
+                    'months' => 11
                 ]
         ];
     }
 
     public function getExperienceTime(): string
     {
-        return '23 months of experience';
+        return '2 years and 1 month of experience';
     }
 
     public function getDailyKnowledge(): array
@@ -54,11 +55,15 @@ class About extends Developer
             Javascript::class,
             Laravel::class,
             Symfony::class,
+            Hyperf::class,
             Sqlsrv::class,
             MySQL::class,
             Vuejs::class,
             Bootstrap::class,
             Advpl::class,
+            Docker::class,
+            Postgres::class,
+            GraphQL::class
         ];
     }
 
