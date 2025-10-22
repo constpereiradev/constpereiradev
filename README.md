@@ -91,7 +91,7 @@ class About extends Developer
     <img src="https://img.shields.io/badge/LinkedIn-Amanda%20Pereira-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:amandapereiradevcontact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amandapereira%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-amandapereiradevcontact%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://pereiradev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-AmandaPereira-181717?style=flat-square" />
