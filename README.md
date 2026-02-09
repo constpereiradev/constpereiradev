@@ -38,7 +38,7 @@ class About extends Developer
                 'currentPosition' => [
                     'company' => 'Blue',
                     'title' => 'Desenvolvedor Backend Junior N3',
-                    'months' => 11
+                    'months' => 15
                 ]
         ];
     }
@@ -71,7 +71,7 @@ class About extends Developer
     {
         return [
             'university' => 'Universidade Federal de Mato Grosso do Sul',
-            'actualSemester' => '4°',
+            'actualSemester' => '5°',
             'totalSemesters' => 6
         ];
     }
