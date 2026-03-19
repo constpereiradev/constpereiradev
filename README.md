@@ -45,7 +45,7 @@ class About extends Developer
 
     public function getExperienceTime(): string
     {
-        return '2 years and 1 month of experience';
+        return '2 years and 8 month of experience';
     }
 
     public function getDailyKnowledge(): array
@@ -63,7 +63,8 @@ class About extends Developer
             Advpl::class,
             Docker::class,
             Postgres::class,
-            GraphQL::class
+            GraphQL::class,
+            Redis::class
         ];
     }
 
