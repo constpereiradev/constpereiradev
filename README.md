@@ -38,7 +38,7 @@ class About extends Developer
                 'currentPosition' => [
                     'company' => 'Blue',
                     'title' => 'Desenvolvedor Backend Junior N3',
-                    'months' => 15
+                    'months' => 18
                 ]
         ];
     }
