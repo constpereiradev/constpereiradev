@@ -35,10 +35,15 @@ class About extends Developer
                     'title' => 'Auxiliar de Desenvolvimento Junior',
                     'months' => 7
                 ],
-                'currentPosition' => [
+                'thirdPosition' => [
                     'company' => 'Blue',
                     'title' => 'Desenvolvedor Backend Junior N3',
                     'months' => 18
+                ],
+                'currentPosition' => [
+                    'company' => 'SimplesVet',
+                    'title' => 'Desenvolvedor Full stack',
+                    'months' => 1
                 ]
         ];
     }
