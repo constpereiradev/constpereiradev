@@ -1,6 +1,6 @@
 <h1 align="center">Amanda Pereira</h1>
 
-<p align="center">🚀 Backend Developer | 💻 Code Artist | 🧠 Always Learning</p>
+<p align="center">🚀 Full-stack Developer | 💻 Code Artist | 🧠 Always Learning</p>
 
 
 <p align="center">
